@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "860677525999",
+    "firebase_url": "https://notificationdemos.firebaseio.com",
+    "project_id": "notificationdemos",
+    "storage_bucket": "notificationdemos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860677525999:android:7d9961830ce00d8f",
+        "android_client_info": {
+          "package_name": "tomerbu.edu.notificationsdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860677525999-4tmabjh1hio7rn823ajoaqn287tmjd25.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tomerbu.edu.notificationsdemo",
+            "certificate_hash": "7A10AD770C6F4EC3BE4D27DFCD880B8519D9D87D"
+          }
+        },
+        {
+          "client_id": "860677525999-h4dvqvhs6g2u596u2p2kcef3eaih8a8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIClUgoQIH-Up9YLUBUqewZQvH9LCCDA0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860677525999-h4dvqvhs6g2u596u2p2kcef3eaih8a8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860677525999:android:8eb2ffbad3abd4e2",
+        "android_client_info": {
+          "package_name": "tomerbu.edu.alarmsjobschedualer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860677525999-phoh841ns5ev28gu2pimh6tbpr5102hh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tomerbu.edu.alarmsjobschedualer",
+            "certificate_hash": "7A10AD770C6F4EC3BE4D27DFCD880B8519D9D87D"
+          }
+        },
+        {
+          "client_id": "860677525999-h4dvqvhs6g2u596u2p2kcef3eaih8a8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIClUgoQIH-Up9YLUBUqewZQvH9LCCDA0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860677525999-h4dvqvhs6g2u596u2p2kcef3eaih8a8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
